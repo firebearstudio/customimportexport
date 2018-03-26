@@ -1,4 +1,6 @@
-Module for customization of Magento 2 - Improved Import / Export extension by FireBear Studio  
+Module for customization of <a href="https://firebearstudio.com/the-improved-import.html" title="Magento 2 Import">Magento 2 - Improved Import / Export extension by FireBear Studio</a>
+
+<a href="https://firebearstudio.com/blog/improved-import-magento-2-extension-manual.html">Extension manual</a>
 
 You can create plugins for functions from module Import and Export.
 
